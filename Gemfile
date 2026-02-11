@@ -57,3 +57,5 @@ group :test do
 end
 
 gem "dartsass-rails"
+
+gem "faker"

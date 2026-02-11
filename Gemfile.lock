@@ -109,6 +109,8 @@ GEM
     drb (2.2.3)
     erb (6.0.1)
     erubi (1.13.1)
+    faker (3.6.0)
+      i18n (>= 1.8.11, < 2)
     globalid (1.3.0)
       activesupport (>= 6.1)
     google-protobuf (4.33.5)
@@ -370,6 +372,7 @@ DEPENDENCIES
   capybara
   dartsass-rails
   debug
+  faker
   jbuilder
   jsbundling-rails
   puma (>= 5.0)
